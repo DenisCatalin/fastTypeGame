@@ -4,6 +4,7 @@
     background-color: rgba(0, 0, 0, .5);
     color: white;
     border-radius: 10px;
+    user-select: none;
     transform: translateY(30%);
 
     .game-over {
