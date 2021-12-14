@@ -16,8 +16,3 @@ ReactDOM.render(
 );
 
 reportWebVitals();
-
-/*
-    Stocare dificultate in redux
-    primirea a x secunde in functie de dificultate
-*/
